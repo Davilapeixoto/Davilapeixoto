@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Davila e cresci no interior de Pernanbuco, quando era pequeno eu não conhecia area de TI mas me interessava por robos então quando tive a oportunidade entrar em um curso tecnico eu aproveitei e graças a isso eu sou um Tecnico em Desenvolvimento de Sistemas apesar de não ser  o curso que queria no inicio eu acabei me apaixonando pela area e atualmente sou um graduando na faculdade CESAR School no curso de Ciencias da Computação.</p>
+<p align="left">Meu nome é Dávila e cresci no interior de Pernambuco. Quando era pequeno, eu não conhecia a área de TI e nem me interessava em computadores, mas me interessava por robôs. Então quando tive a oportunidade de ingressar em um curso técnico, aproveitei. Graças a isso, tornei-me Técnico em Desenvolvimento de Sistemas. Apesar de não ser o curso que eu queria inicialmente, acabei me apaixonando pela área. Atualmente, sou graduando na CESAR School, cursando Ciência da Computação.</p>
 
 ###
 
